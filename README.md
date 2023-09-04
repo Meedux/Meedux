@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Seniors and Gurus<br>🌱 I’m currently learning UI/UX Design, ExpressJS, MongoDB, CMS<br>💬 Ask me about Anything<br>⚡ Fun fact: The distance between Sun and Earth is the same distance between Earth and Sun ( ͡° ͜ʖ ͡°)
+👯 Junior Full Stack Dev😎💪<br>🤝 I’m looking for people to connect with<br>🌱 I’m currently learning efficient patterns in programming<br>💬 Ask me about Anything<br>⚡ Fun fact: The distance between Sun and Earth is the same distance between Earth and Sun ( ͡° ͜ʖ ͡°)
 
 
 ## 🌐 Socials:
