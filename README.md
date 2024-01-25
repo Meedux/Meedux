@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 Junior Full Stack Dev😎💪<br>🤝 I’m looking for people to connect with<br>🌱 I’m currently learning efficient patterns in programming<br>💬 Ask me about Anything<br>⚡ Fun fact: The distance between Sun and Earth is the same distance between Earth and Sun ( ͡° ͜ʖ ͡°)
+👯 Full Stack Software Engineer<br>🤝 Doing Stuff that fucks my head up<br>🌱 Who needs youtube Videos when there's Documentation already<br>💬 Ask me about Anything<br>⚡ Fun fact: The distance between Sun and Earth is the same distance between Earth and Sun ( ͡° ͜ʖ ͡°)
 
 
 ## 🌐 Socials:
